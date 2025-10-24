@@ -4,7 +4,7 @@ A robust Python-based web scraper designed for efficient data extraction from an
 
 ## 🌟 Overview
 
-`jaratify` is a focused web scraping tool built in Python. Its primary purpose is to reliably collect structured data—such as product details, pricing, and availability—from a target **[e-commerce platform]**.
+`jaratify` is a focused web scraping tool built in Python. Its primary purpose is to reliably collect structured data—such from a target **[platform]**.
 
 This tool is organized to be modular and easy to maintain, with all scraping logic contained within the dedicated `scraper` directory.
 
